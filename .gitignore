@@ -1,0 +1,6 @@
+android/build/
+android/keystore.jks
+dist/
+easytier/
+__pycache__/
+*.idsig
